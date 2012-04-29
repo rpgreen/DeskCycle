@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="18" version="2.0">
+<workbenchAdvisor/>
+<window height="768" maximized="true" minimized="true" width="1024" x="30" y="69">
+<fastViewData fastViewLocation="131072">
+<orientation position="512" view="com.ibm.xtools.patterns.ui.views.explorer.PatternExplorer"/>
+</fastViewData>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout locked="0">
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="98" y="23"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="br.usp.ime.prolog.actions.PrologActionSet" itemType="typeToolBarContribution" x="38" y="23"/>
+<coolItem id="com.ibm.xtools.modeler.ui.actions.ModelingActionSet" itemType="typeToolBarContribution" x="36" y="22"/>
+<coolItem id="com.ibm.xtools.publish.ui.internal.actions.PublishActionSet" itemType="typeToolBarContribution" x="59" y="22"/>
+<coolItem id="com.ibm.xtools.traceability.internal.actions.actionSet" itemType="typeToolBarContribution" x="36" y="22"/>
+<coolItem id="com.rational.clearcase.ActionSet" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="124" y="23"/>
+<coolItem id="org.eclipse.jdt.ui.JavaElementCreationActionSet" itemType="typeToolBarContribution" x="98" y="23"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="62" y="23"/>
+<coolItem id="org.eclipse.ui.WorkingSetActionSet" itemType="typeToolBarContribution" x="52" y="23"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="62" y="23"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="183" y="23"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ant.ui.internal.editor.AntEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1171906342898" focus="true" label="Workspace - Java">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
+<part id="15"/>
+<part id="16"/>
+<part id="17"/>
+<part id="18"/>
+<part id="19"/>
+<part id="20"/>
+<part id="21"/>
+<part id="22"/>
+<part id="23"/>
+<part id="24"/>
+<part id="25"/>
+<part id="26"/>
+<part id="27"/>
+<part id="28"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="XmlRpcConnection.java" partName="XmlRpcConnection.java" path="E:/School/Senior Project/DCMon/DCMon/src/org/rg/dcmon/dcweb/XmlRpcConnection.java" title="XmlRpcConnection.java" tooltip="DCMon/src/org/rg/dcmon/dcweb/XmlRpcConnection.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DCMon/src/org/rg/dcmon/dcweb/XmlRpcConnection.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="InternetDevice.java" partName="InternetDevice.java" path="E:/School/Senior Project/DCMon/DCMon/src/org/rg/dcmon/device/InternetDevice.java" title="InternetDevice.java" tooltip="DCMon/src/org/rg/dcmon/device/InternetDevice.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DCMon/src/org/rg/dcmon/device/InternetDevice.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SerialDevice.java" partName="SerialDevice.java" path="E:/School/Senior Project/DCMon/DCMon/src/org/rg/dcmon/device/SerialDevice.java" title="SerialDevice.java" tooltip="DCMon/src/org/rg/dcmon/device/SerialDevice.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DCMon/src/org/rg/dcmon/device/SerialDevice.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MonitorController.java" partName="MonitorController.java" path="E:/School/Senior Project/DCMon/DCMon/src/org/rg/dcmon/monitor/MonitorController.java" title="MonitorController.java" tooltip="DCMon/src/org/rg/dcmon/monitor/MonitorController.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DCMon/src/org/rg/dcmon/monitor/MonitorController.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Session.java" partName="Session.java" path="E:/School/Senior Project/DCMon/DCMon/src/org/rg/dcmon/session/Session.java" title="Session.java" tooltip="DCMon/src/org/rg/dcmon/session/Session.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DCMon/src/org/rg/dcmon/session/Session.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Tick.java" partName="Tick.java" path="E:/School/Senior Project/DCMon/DCMon/src/org/rg/dcmon/session/Tick.java" title="Tick.java" tooltip="DCMon/src/org/rg/dcmon/session/Tick.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DCMon/src/org/rg/dcmon/session/Tick.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DCMon.java" partName="DCMon.java" path="E:/School/Senior Project/DCMon/DCMon/src/org/rg/dcmon/monitor/DCMon.java" title="DCMon.java" tooltip="DCMon/src/org/rg/dcmon/monitor/DCMon.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DCMon/src/org/rg/dcmon/monitor/DCMon.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DeviceIdleState.java" partName="DeviceIdleState.java" path="E:/School/Senior Project/DCMon/DCMon/src/org/rg/dcmon/device/state/DeviceIdleState.java" title="DeviceIdleState.java" tooltip="DCMon/src/org/rg/dcmon/device/state/DeviceIdleState.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DCMon/src/org/rg/dcmon/device/state/DeviceIdleState.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DeviceInitKeyState.java" partName="DeviceInitKeyState.java" path="E:/School/Senior Project/DCMon/DCMon/src/org/rg/dcmon/device/state/DeviceInitKeyState.java" title="DeviceInitKeyState.java" tooltip="DCMon/src/org/rg/dcmon/device/state/DeviceInitKeyState.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DCMon/src/org/rg/dcmon/device/state/DeviceInitKeyState.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DeviceInitScaleState.java" partName="DeviceInitScaleState.java" path="E:/School/Senior Project/DCMon/DCMon/src/org/rg/dcmon/device/state/DeviceInitScaleState.java" title="DeviceInitScaleState.java" tooltip="DCMon/src/org/rg/dcmon/device/state/DeviceInitScaleState.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DCMon/src/org/rg/dcmon/device/state/DeviceInitScaleState.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DeviceSessionState.java" partName="DeviceSessionState.java" path="E:/School/Senior Project/DCMon/DCMon/src/org/rg/dcmon/device/state/DeviceSessionState.java" title="DeviceSessionState.java" tooltip="DCMon/src/org/rg/dcmon/device/state/DeviceSessionState.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DCMon/src/org/rg/dcmon/device/state/DeviceSessionState.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DeviceState.java" partName="DeviceState.java" path="E:/School/Senior Project/DCMon/DCMon/src/org/rg/dcmon/device/DeviceState.java" title="DeviceState.java" tooltip="DCMon/src/org/rg/dcmon/device/DeviceState.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DCMon/src/org/rg/dcmon/device/DeviceState.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MonitorState.java" partName="MonitorState.java" path="E:/School/Senior Project/DCMon/DCMon/src/org/rg/dcmon/monitor/MonitorState.java" title="MonitorState.java" tooltip="DCMon/src/org/rg/dcmon/monitor/MonitorState.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DCMon/src/org/rg/dcmon/monitor/MonitorState.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Console.java" partName="Console.java" path="E:/School/Senior Project/DCMon/DCMon/src/org/rg/dcmon/view/Console.java" title="Console.java" tooltip="DCMon/src/org/rg/dcmon/view/Console.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DCMon/src/org/rg/dcmon/view/Console.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="View.java" partName="View.java" path="E:/School/Senior Project/DCMon/DCMon/src/org/rg/dcmon/view/View.java" title="View.java" tooltip="DCMon/src/org/rg/dcmon/view/View.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DCMon/src/org/rg/dcmon/view/View.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DeviceController.java" partName="DeviceController.java" path="E:/School/Senior Project/DCMon/DCMon/src/org/rg/dcmon/device/DeviceController.java" title="DeviceController.java" tooltip="DCMon/src/org/rg/dcmon/device/DeviceController.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DCMon/src/org/rg/dcmon/device/DeviceController.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IDevice.java" partName="IDevice.java" path="E:/School/Senior Project/DCMon/DCMon/src/org/rg/dcmon/device/IDevice.java" title="IDevice.java" tooltip="DCMon/src/org/rg/dcmon/device/IDevice.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DCMon/src/org/rg/dcmon/device/IDevice.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IMonitor.java" partName="IMonitor.java" path="E:/School/Senior Project/DCMon/DCMon/src/org/rg/dcmon/monitor/IMonitor.java" title="IMonitor.java" tooltip="DCMon/src/org/rg/dcmon/monitor/IMonitor.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DCMon/src/org/rg/dcmon/monitor/IMonitor.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TickCollection.java" partName="TickCollection.java" path="E:/School/Senior Project/DCMon/DCMon/src/org/rg/dcmon/session/TickCollection.java" title="TickCollection.java" tooltip="DCMon/src/org/rg/dcmon/session/TickCollection.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DCMon/src/org/rg/dcmon/session/TickCollection.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="KeyboardTestDevice.java" partName="KeyboardTestDevice.java" path="E:/School/Senior Project/DCMon/DCMon/src/org/rg/dcmon/device/KeyboardTestDevice.java" title="KeyboardTestDevice.java" tooltip="DCMon/src/org/rg/dcmon/device/KeyboardTestDevice.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DCMon/src/org/rg/dcmon/device/KeyboardTestDevice.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GraphPanel.java" partName="GraphPanel.java" path="E:/School/Senior Project/DCMon/DCMon/src/org/rg/dcmon/view/GraphPanel.java" title="GraphPanel.java" tooltip="DCMon/src/org/rg/dcmon/view/GraphPanel.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DCMon/src/org/rg/dcmon/view/GraphPanel.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OptionsPanel.java" partName="OptionsPanel.java" path="E:/School/Senior Project/DCMon/DCMon/src/org/rg/dcmon/view/OptionsPanel.java" title="OptionsPanel.java" tooltip="DCMon/src/org/rg/dcmon/view/OptionsPanel.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DCMon/src/org/rg/dcmon/view/OptionsPanel.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AverageVelocityGraphPanel.java" partName="AverageVelocityGraphPanel.java" path="E:/School/Senior Project/DCMon/DCMon/src/org/rg/dcmon/view/graph/AverageVelocityGraphPanel.java" title="AverageVelocityGraphPanel.java" tooltip="DCMon/src/org/rg/dcmon/view/graph/AverageVelocityGraphPanel.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DCMon/src/org/rg/dcmon/view/graph/AverageVelocityGraphPanel.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="VelocityGraphPanel.java" partName="VelocityGraphPanel.java" path="E:/School/Senior Project/DCMon/DCMon/src/org/rg/dcmon/view/graph/VelocityGraphPanel.java" title="VelocityGraphPanel.java" tooltip="DCMon/src/org/rg/dcmon/view/graph/VelocityGraphPanel.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DCMon/src/org/rg/dcmon/view/graph/VelocityGraphPanel.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DistanceGraphPanel.java" partName="DistanceGraphPanel.java" path="E:/School/Senior Project/DCMon/DCMon/src/org/rg/dcmon/view/graph/DistanceGraphPanel.java" title="DistanceGraphPanel.java" tooltip="DCMon/src/org/rg/dcmon/view/graph/DistanceGraphPanel.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DCMon/src/org/rg/dcmon/view/graph/DistanceGraphPanel.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DataPanel.java" partName="DataPanel.java" path="E:/School/Senior Project/DCMon/DCMon/src/org/rg/dcmon/view/DataPanel.java" title="DataPanel.java" tooltip="DCMon/src/org/rg/dcmon/view/DataPanel.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DCMon/src/org/rg/dcmon/view/DataPanel.java"/>
+</editor>
+<editor id="org.eclipse.ant.ui.internal.editor.AntEditor" name="build.xml" partName="build.xml" path="E:/School/Senior Project/DCMon/DCMon/build.xml" title="build.xml" tooltip="DCMon/build.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DCMon/build.xml"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SettingsManager.java" partName="SettingsManager.java" path="E:/School/Senior Project/DCMon/DCMon/src/org/rg/dcmon/monitor/SettingsManager.java" title="SettingsManager.java" tooltip="DCMon/src/org/rg/dcmon/monitor/SettingsManager.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DCMon/src/org/rg/dcmon/monitor/SettingsManager.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IDCDB.java" partName="IDCDB.java" path="E:/School/Senior Project/DCMon/DCMon/src/org/rg/dcmon/dcweb/IDCDB.java" title="IDCDB.java" tooltip="DCMon/src/org/rg/dcmon/dcweb/IDCDB.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DCMon/src/org/rg/dcmon/dcweb/IDCDB.java"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.jdt.ui.TypeHierarchy" partName="Hierarchy"/>
+<view id="org.eclipse.ui.views.BookmarkView" partName="Bookmarks"/>
+<view id="org.eclipse.search.ui.views.SearchView" partName="Search">
+<viewState isPinned="false">
+<view IMemento.internal.id="" org.eclipse.search.lastActivation="0"/>
+</viewState>
+</view>
+<view id="org.eclipse.debug.ui.DebugView" partName="Debug">
+<viewState/>
+</view>
+<view id="org.eclipse.debug.ui.BreakpointView" partName="Breakpoints">
+<viewState>
+<isTrackingSelection value="false"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.TaskList" partName="Tasks"/>
+<view id="org.eclipse.debug.ui.VariableView" partName="Variables">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.PropertySheet" partName="Properties">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState columnWidth0="19" columnWidth1="634" columnWidth2="78" columnWidth3="153" columnWidth4="0" horizontalPosition="0" verticalPosition="0">
+<columnOrder columnOrderIndex="0"/>
+<columnOrder columnOrderIndex="1"/>
+<columnOrder columnOrderIndex="2"/>
+<columnOrder columnOrderIndex="3"/>
+<columnOrder columnOrderIndex="4"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.jdt.ui.PackageExplorer" partName="Package Explorer">
+<viewState isWindowWorkingSet="true" layout="2" org.eclipse.jdt.ui.packages.linktoeditor="0" rootMode="1" workingSetName="">
+<customFilters userDefinedPatternsEnabled="false">
+<xmlDefinedFilters>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.StaticsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer_patternFilterId_*$*.class" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.FieldsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*" isEnabled="true"/>
+<child filterId="org.eclipse.pde.ui.BinaryProjectFilter1" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter" isEnabled="true"/>
+</xmlDefinedFilters>
+</customFilters>
+</viewState>
+</view>
+<view id="org.eclipse.jdt.ui.SourceView" partName="Declaration">
+<viewState/>
+</view>
+<view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspective editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="com.ibm.xtools.modeler.internal.ui.perspectives.ModelingPerspective" id="com.ibm.xtools.modeler.internal.ui.perspectives.ModelingPerspective" label="Modeling"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.openExternalFile"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.update.ui.softwareUpdates"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="com.ibm.xtools.modeler.ui.views.modelexplorer.ModelExplorer"/>
+<show_view_action id="com.ibm.xtools.modeler.internal.ui.views.InheritanceExplorer"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.BookmarkView"/>
+<show_view_action id="com.ibm.xtools.common.ui.views.DiagramNavigator"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.gef.ui.palette_view"/>
+<show_view_action id="com.ibm.xtools.patterns.ui.views.explorer.PatternExplorer"/>
+<show_view_action id="com.ibm.xtools.patterns.ui.authoring.internal.views.PatternAuthoringView"/>
+<show_view_action id="com.ibm.xtools.reqpro.ui.internal.views.explorer.RequirementExplorer"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="com.ibm.xtools.traceability.internal.views.modelreport"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="com.ibm.xtools.pluglets.ui.newPluglet"/>
+<new_wizard_action id="com.ibm.xtools.modeler.ui.actions.NewModelActionWizard"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.pde.ui.PDEPerspective"/>
+<perspective_action id="com.ibm.xtools.reqpro.activities.internal.perspective.RequirementPerspective"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="org.eclipse.ui.views.PropertySheet"/>
+<view id="org.eclipse.ui.views.TaskList"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.ui.views.BookmarkView"/>
+<view id="org.eclipse.ui.internal.introview"/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="org.eclipse.ui.internal.ViewStack@20172017">&#x0A;<folder activePageID="com.ibm.xtools.modeler.ui.views.modelexplorer.ModelExplorer" appearance="2" expanded="2">&#x0A;<page content="com.ibm.xtools.modeler.ui.views.modelexplorer.ModelExplorer" label="LabelNotFound"/>
+<page content="com.ibm.xtools.common.ui.views.DiagramNavigator" label="LabelNotFound"/>
+<page content="com.ibm.xtools.patterns.ui.authoring.internal.views.PatternAuthoringView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@76057605" ratio="0.74925077" ratioLeft="750" ratioRight="251" relationship="2" relative="org.eclipse.ui.internal.ViewStack@20172017">&#x0A;<folder activePageID="org.eclipse.ui.internal.introview" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="Welcome"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info part="com.ibm.xtools.reqpro.ui.internal.views.explorer.RequirementExplorer" ratio="0.25974026" ratioLeft="260" ratioRight="741" relationship="2" relative="org.eclipse.ui.internal.ViewStack@20172017"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@7dd77dd7" ratio="0.65857357" ratioLeft="434" ratioRight="225" relationship="4" relative="com.ibm.xtools.reqpro.ui.internal.views.explorer.RequirementExplorer">&#x0A;<folder activePageID="org.eclipse.ui.views.PropertySheet" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
+<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="Bookmarks"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.24966262" ratioLeft="185" ratioRight="556" relationship="2" relative="com.ibm.xtools.reqpro.ui.internal.views.explorer.RequirementExplorer"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@478a478a" ratio="0.65857357" ratioLeft="434" ratioRight="225" relationship="4" relative="org.eclipse.ui.internal.ViewStack@20172017">&#x0A;<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="com.ibm.xtools.modeler.internal.ui.views.InheritanceExplorer" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.jdt.internal.ui.JavaPerspectiveFactory" id="org.eclipse.jdt.ui.JavaPerspective" label="Java"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.openExternalFile"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.update.ui.softwareUpdates"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaElementCreationActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.junit.JUnitActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.WorkingSetActionSet"/>
+<alwaysOnActionSet id="br.usp.ime.prolog.actions.PrologActionSet"/>
+<show_view_action id="org.eclipse.jdt.ui.PackageExplorer"/>
+<show_view_action id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<show_view_action id="org.eclipse.jdt.ui.SourceView"/>
+<show_view_action id="org.eclipse.jdt.ui.JavadocView"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewPackageCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewInterfaceCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewEnumCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewAnnotationCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSourceFolderCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSnippetFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<new_wizard_action id="org.eclipse.jdt.junit.wizards.NewTestCaseCreationWizard"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<view id="org.eclipse.jdt.ui.PackageExplorer"/>
+<view id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.jdt.ui.JavadocView"/>
+<view id="org.eclipse.jdt.ui.SourceView"/>
+<view id="org.eclipse.search.ui.views.SearchView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<layout>
+<mainWindow>
+<info folder="true" part="left">
+<folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="Package Explorer"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="Hierarchy"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.junit.ResultView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@34d75f" ratio="0.7494052" ratioLeft="945" ratioRight="316" relationship="2" relative="left">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.25160772" ratioLeft="313" ratioRight="931" relationship="2" relative="left"/>
+<info folder="true" part="bottom" ratio="0.77717394" ratioLeft="715" ratioRight="205" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
+<page content="org.eclipse.jdt.ui.SourceView" label="Declaration"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="Search"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="4"/>
+<part id="3"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1d652" ratio="0.8955665" ratioLeft="909" ratioRight="106" relationship="2" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.debug.internal.ui.DebugPerspectiveFactory" id="org.eclipse.debug.ui.DebugPerspective" label="Debug"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.openExternalFile"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.update.ui.softwareUpdates"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.WorkingSetActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<show_view_action id="org.eclipse.debug.ui.DebugView"/>
+<show_view_action id="org.eclipse.debug.ui.VariableView"/>
+<show_view_action id="org.eclipse.debug.ui.BreakpointView"/>
+<show_view_action id="org.eclipse.debug.ui.ExpressionView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.jdt.debug.ui.DisplayView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.ui.views.TaskList"/>
+<view id="org.eclipse.debug.ui.DebugView"/>
+<view id="org.eclipse.debug.ui.VariableView"/>
+<view id="org.eclipse.debug.ui.BreakpointView"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.debug.ui.DebugView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.7494052" ratioLeft="945" ratioRight="316" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.debug.internal.ui.ConsoleFolderView" ratio="0.74972916" ratioLeft="692" ratioRight="231" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.PropertySheet" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.debug.ui.DisplayView" label="LabelNotFound"/>
+<page content="org.eclipse.search.SearchResultView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.3600583" ratioLeft="247" ratioRight="439" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView"/>
+<info folder="true" part="org.eclipse.debug.internal.ui.OutlineFolderView" ratio="0.85850555" ratioLeft="1080" ratioRight="178" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.debug.internal.ui.ToolsFolderView" ratio="0.49960348" ratioLeft="630" ratioRight="631" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.debug.ui.VariableView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.debug.ui.VariableView" label="Variables"/>
+<page content="org.eclipse.debug.ui.BreakpointView" label="Breakpoints"/>
+<page content="org.eclipse.debug.ui.ExpressionView" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.RegisterView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DCMon/src/org/rg/dcmon/device/DeviceController.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/DCMon/DCMonSettings.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DCMon/src/org/rg/dcmon/dcweb/XmlRpcConnection.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DCMon/src/org/rg/dcmon/device/SerialDevice.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DCMon/src/org/rg/dcmon/session/Session.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DCMon/src/org/rg/dcmon/view/graph/VelocityGraphPanel.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DCMon/src/org/rg/dcmon/view/View.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DCMon/src/org/rg/dcmon/monitor/SettingsManager.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ant.ui.internal.editor.AntEditor" path="/DCMon/build.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DCMon/src/org/rg/dcmon/view/OptionsPanel.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DCMon/src/org/rg/dcmon/view/DataPanel.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DCMon/src/org/rg/dcmon/view/graph/AverageVelocityGraphPanel.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DCMon/src/org/rg/dcmon/view/GraphPanel.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DCMon/src/org/rg/dcmon/view/graph/DistanceGraphPanel.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DCMon/src/org/rg/dcmon/dcweb/IDCDB.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DCMon/src/org/rg/dcmon/view/graph/DistanceGraphPanel.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DCMon/src/org/rg/dcmon/dcweb/XmlRpcConnection.java"/>
+</editors>
+<item historyLabel="DeviceController.java" index="0">
+<position info="not_deleted" x="1978" y="0"/>
+</item>
+<item historyLabel="DeviceController.java" index="0">
+<position info="not_deleted" x="2169" y="0"/>
+</item>
+<item historyLabel="DCMonSettings.xml" index="1">
+<position/>
+</item>
+<item historyLabel="XmlRpcConnection.java" index="2">
+<position info="not_deleted" x="5" y="0"/>
+</item>
+<item historyLabel="SerialDevice.java" index="3">
+<position info="not_deleted" x="3027" y="0"/>
+</item>
+<item historyLabel="Session.java" index="4">
+<position info="not_deleted" x="2737" y="0"/>
+</item>
+<item historyLabel="VelocityGraphPanel.java" index="5">
+<position info="not_deleted" x="583" y="0"/>
+</item>
+<item historyLabel="View.java" index="6">
+<position info="not_deleted" x="5" y="0"/>
+</item>
+<item historyLabel="View.java" index="6">
+<position info="not_deleted" x="7376" y="0"/>
+</item>
+<item historyLabel="SettingsManager.java" index="7">
+<position info="not_deleted" x="5" y="0"/>
+</item>
+<item historyLabel="SerialDevice.java" index="3">
+<position info="not_deleted" x="3027" y="0"/>
+</item>
+<item historyLabel="DCMonSettings.xml" index="1">
+<position/>
+</item>
+<item historyLabel="SerialDevice.java" index="3">
+<position info="not_deleted" x="3027" y="0"/>
+</item>
+<item historyLabel="build.xml" index="8">
+<position/>
+</item>
+<item historyLabel="View.java" index="6">
+<position info="not_deleted" x="6842" y="0"/>
+</item>
+<item historyLabel="build.xml" index="8">
+<position info="not_deleted" x="524" y="0"/>
+</item>
+<item historyLabel="SettingsManager.java" index="7">
+<position info="not_deleted" x="5" y="0"/>
+</item>
+<item historyLabel="SettingsManager.java" index="7">
+<position/>
+</item>
+<item historyLabel="SettingsManager.java" index="7">
+<position info="not_deleted" x="1256" y="0"/>
+</item>
+<item historyLabel="build.xml" index="8">
+<position info="not_deleted" x="1073" y="0"/>
+</item>
+<item historyLabel="DCMonSettings.xml" index="1">
+<position/>
+</item>
+<item historyLabel="build.xml" index="8">
+<position info="not_deleted" x="1073" y="0"/>
+</item>
+<item historyLabel="build.xml" index="8">
+<position info="not_deleted" x="1001" y="0"/>
+</item>
+<item historyLabel="XmlRpcConnection.java" index="2">
+<position info="not_deleted" x="5" y="0"/>
+</item>
+<item historyLabel="SettingsManager.java" index="7">
+<position info="not_deleted" x="561" y="0"/>
+</item>
+<item historyLabel="build.xml" index="8">
+<position info="not_deleted" x="476" y="0"/>
+</item>
+<item historyLabel="SettingsManager.java" index="7">
+<position info="not_deleted" x="561" y="0"/>
+</item>
+<item historyLabel="build.xml" index="8">
+<position info="not_deleted" x="476" y="0"/>
+</item>
+<item historyLabel="XmlRpcConnection.java" index="2">
+<position info="not_deleted" x="1410" y="0"/>
+</item>
+<item historyLabel="VelocityGraphPanel.java" index="5">
+<position info="not_deleted" x="1345" y="0"/>
+</item>
+<item historyLabel="SettingsManager.java" index="7">
+<position info="not_deleted" x="660" y="0"/>
+</item>
+<item historyLabel="OptionsPanel.java" index="9">
+<position info="not_deleted" x="3149" y="0"/>
+</item>
+<item historyLabel="View.java" index="6">
+<position info="not_deleted" x="6842" y="0"/>
+</item>
+<item historyLabel="DataPanel.java" index="10">
+<position info="not_deleted" x="5" y="0"/>
+</item>
+<item historyLabel="AverageVelocityGraphPanel.java" index="11">
+<position/>
+</item>
+<item historyLabel="View.java" index="6">
+<position info="not_deleted" x="5424" y="0"/>
+</item>
+<item historyLabel="GraphPanel.java" index="12">
+<position info="not_deleted" x="5" y="0"/>
+</item>
+<item historyLabel="View.java" index="6">
+<position info="not_deleted" x="8177" y="2"/>
+</item>
+<item historyLabel="GraphPanel.java" index="12">
+<position info="not_deleted" x="2671" y="2"/>
+</item>
+<item historyLabel="AverageVelocityGraphPanel.java" index="11">
+<position/>
+</item>
+<item historyLabel="DistanceGraphPanel.java" index="13">
+<position/>
+</item>
+<item historyLabel="View.java" index="6">
+<position info="not_deleted" x="8177" y="2"/>
+</item>
+<item historyLabel="View.java" index="6">
+<position info="not_deleted" x="7744" y="33"/>
+</item>
+<item historyLabel="OptionsPanel.java" index="9">
+<position info="not_deleted" x="4049" y="0"/>
+</item>
+<item historyLabel="View.java" index="6">
+<position info="not_deleted" x="7744" y="33"/>
+</item>
+<item historyLabel="View.java" index="6">
+<position/>
+</item>
+<item historyLabel="IDCDB.java" index="14">
+<position info="not_deleted" x="5" y="0"/>
+</item>
+<item historyLabel="DistanceGraphPanel.java" index="15">
+<position/>
+</item>
+<item active="true" historyLabel="XmlRpcConnection.java" index="16">
+<position info="not_deleted" x="5" y="0"/>
+</item>
+</navigationHistory>
+<stickyState>
+<perspective IMemento.internal.id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective IMemento.internal.id="org.eclipse.jdt.ui.JavaPerspective">
+<view IMemento.internal.id="org.eclipse.ui.internal.introview"/>
+</perspective>
+</stickyState>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="131072">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IDCDB.java" tooltip="DCMon/src/org/rg/dcmon/dcweb/IDCDB.java">
+<persistable path="/DCMon/src/org/rg/dcmon/dcweb/IDCDB.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SettingsManager.java" tooltip="DCMon/src/org/rg/dcmon/monitor/SettingsManager.java">
+<persistable path="/DCMon/src/org/rg/dcmon/monitor/SettingsManager.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="DCMonSettings.xml" tooltip="DCMon/DCMonSettings.xml">
+<persistable path="/DCMon/DCMonSettings.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ant.ui.internal.editor.AntEditor" name="build.xml" tooltip="DCMon/build.xml">
+<persistable path="/DCMon/build.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DataPanel.java" tooltip="DCMon/src/org/rg/dcmon/view/DataPanel.java">
+<persistable path="/DCMon/src/org/rg/dcmon/view/DataPanel.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DistanceGraphPanel.java" tooltip="DCMon/src/org/rg/dcmon/view/graph/DistanceGraphPanel.java">
+<persistable path="/DCMon/src/org/rg/dcmon/view/graph/DistanceGraphPanel.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="VelocityGraphPanel.java" tooltip="DCMon/src/org/rg/dcmon/view/graph/VelocityGraphPanel.java">
+<persistable path="/DCMon/src/org/rg/dcmon/view/graph/VelocityGraphPanel.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AverageVelocityGraphPanel.java" tooltip="DCMon/src/org/rg/dcmon/view/graph/AverageVelocityGraphPanel.java">
+<persistable path="/DCMon/src/org/rg/dcmon/view/graph/AverageVelocityGraphPanel.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OptionsPanel.java" tooltip="DCMon/src/org/rg/dcmon/view/OptionsPanel.java">
+<persistable path="/DCMon/src/org/rg/dcmon/view/OptionsPanel.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GraphPanel.java" tooltip="DCMon/src/org/rg/dcmon/view/GraphPanel.java">
+<persistable path="/DCMon/src/org/rg/dcmon/view/GraphPanel.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="KeyboardTestDevice.java" tooltip="DCMon/src/org/rg/dcmon/device/KeyboardTestDevice.java">
+<persistable path="/DCMon/src/org/rg/dcmon/device/KeyboardTestDevice.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TickCollection.java" tooltip="DCMon/src/org/rg/dcmon/session/TickCollection.java">
+<persistable path="/DCMon/src/org/rg/dcmon/session/TickCollection.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IMonitor.java" tooltip="DCMon/src/org/rg/dcmon/monitor/IMonitor.java">
+<persistable path="/DCMon/src/org/rg/dcmon/monitor/IMonitor.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IDevice.java" tooltip="DCMon/src/org/rg/dcmon/device/IDevice.java">
+<persistable path="/DCMon/src/org/rg/dcmon/device/IDevice.java"/>
+</file>
+</mruList>
+</workbench>

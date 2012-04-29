@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="438" key="DIALOG_WIDTH"/>
+		<item value="354" key="DIALOG_Y_ORIGIN"/>
+		<item value="244" key="DIALOG_HEIGHT"/>
+		<item value="425" key="DIALOG_X_ORIGIN"/>
+		<item value="1|Microsoft Sans Serif|8|0|WINDOWS|1|-11|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft Sans Serif" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.ui.views.problem">
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item value="438" key="DIALOG_WIDTH"/>
+		<item value="144" key="DIALOG_Y_ORIGIN"/>
+		<item value="425" key="DIALOG_X_ORIGIN"/>
+		<item value="559" key="DIALOG_HEIGHT"/>
+		<item value="1|Microsoft Sans Serif|8|0|WINDOWS|1|-11|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft Sans Serif" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+		</list>
+	</section>
+</section>

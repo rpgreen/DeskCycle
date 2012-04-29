@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+
+<DCMonSettings>
+
+<UserName>
+   demo
+</UserName>
+
+<Pass>
+   demo
+</Pass>
+
+<UpdateInterval>
+   100
+</UpdateInterval>
+
+<UploadSession>
+   true
+</UploadSession>
+
+<SessionStartTicks>
+   10
+</SessionStartTicks>
+
+<SessionTimeout>
+   15000
+</SessionTimeout>
+
+<CommTimeout>
+   90000
+</CommTimeout>
+
+<ServerHost>
+   http://ryangreen.ca/dcweb/server.php
+</ServerHost>
+
+<DeviceCommType>
+   DEVICE_SERIAL
+</DeviceCommType>
+
+<CommPort>
+   COM3
+</CommPort>
+
+<CommBaud>
+   19200
+</CommBaud>
+
+<VelocityUnit>
+   M_S
+</VelocityUnit>
+
+<DistanceUnit>
+   M
+</DistanceUnit>
+
+</DCMonSettings>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="month.tpl" local="128171664978215000" remote="128171610600000000" testing="0" />
+<file name="week.tpl" local="128186236033455000" remote="128186180400000000" testing="0" />
+<file name="day.tpl" local="128186242793142500" remote="128186187600000000" testing="0" />
+<file name="viewSession.tpl" local="128171682526808750" remote="128171628000000000" testing="0" />
+<file name="header.tpl" local="128172650876027500" remote="128172596400000000" testing="0" />
+<file name="footer.tpl" local="128171663316496250" remote="128171608800000000" testing="0" />
+<file name="menu.tpl" local="128187428137205000" remote="128187372600000000" testing="0" />
+<file name="banner.tpl" local="128184880574062500" remote="128184826200000000" testing="0" />
+<file name="login.tpl" local="128185402947789163" remote="128185384200000000" testing="0" />
+<file name="error.tpl" local="128180283004745000" remote="128180229000000000" testing="0" />
+<file name="registerUser.tpl" local="128185412766924203" remote="128185394400000000" testing="0" />
+<file name="profile.tpl" local="128188003910173750" remote="128187948600000000" testing="0" />
+<file name="addFriend.tpl" local="128185689475535360" remote="128185634400000000" testing="0" />
+<file name="friendRequests.tpl" local="128185717324247680" remote="128185662000000000" testing="0" />
+<file name="friends.tpl" local="128188006756423750" remote="128187951600000000" testing="0" />
+<file name="recentSessions.tpl" local="128187464997986250" remote="128187409800000000" testing="0" />
+</dwsync>

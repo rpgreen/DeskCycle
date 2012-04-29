@@ -1,0 +1,563 @@
+
+
+/* Customs */
+
+
+/*
+Color palette:
+
+green: #C3D133 or #8CCA1E
+charcoal: #414040
+lightgrey : #C5CDD1
+blue : #54859E
+grey: #666
+*/
+
+
+body {
+	/*background: #414040 url("../../images/body_bg.gif") repeat-x 0 0;*/
+	background: #373A3F url("../../images/body_bg.gif") repeat-x 0 0; 
+    font-family: Verdana, Arial, Helvetica, sans-serif;	
+    font-size: 11px;
+	line-height:normal;  
+	overflow: -moz-scrollbars-vertical; 
+	color: #666;
+    height: 100%;
+	padding:0px;
+	margin:0px;
+    ~cursor: default;
+}
+
+h1 {
+	color:#8CCA1E;
+}
+
+.sessionDist {
+	text-align:left;
+}
+
+.monthDayDist {
+	text-align:center;
+}
+
+
+a:link {
+	color:#54859E;
+	text-decoration:none;
+	/*border-bottom: 1px dotted;*/
+}
+a:visited {
+	color:#54859E;
+	text-decoration:none;
+}
+a:active {
+	color:#54859E;
+	text-decoration:none;
+}
+a:hover {text-decoration: underline;}
+
+.menu {
+	padding: 10px;
+}
+
+
+.menuItem {
+	font-weight:bold;
+	font-size:13px;
+}
+
+.menuItem a:link {
+	color:#8CCA1E;
+
+}
+
+.menuItem a:visited {
+	color:#8CCA1E;
+
+}
+
+.subMenuItem a:link {
+	color:#8CCA1E;
+
+}
+
+.subMenuItem a:visited {
+	color:#8CCA1E;
+
+}
+
+.subMenuItem {
+	margin-left: 15px;
+	font-weight:bold;
+	font-size:13px;
+}
+
+.recentSessionsText{
+	font-size:10px;
+}
+
+#container {
+width: 800px;
+margin-bottom: 10px;
+margin-left: auto;
+margin-right: auto;
+background-color: #FFFFFF;
+}
+
+#banner {
+background-color: #8CCA1E;
+margin: 0px;
+height: 80px;
+}
+#banner img {padding:10px 0px;} 
+
+.bannertext {
+text-align: left;
+font-size:38px;
+color:#FFFFFF;
+padding: 20px;
+}
+
+.topmenu {
+font-size:20px;
+color:#FFFFFF;
+padding: 20px;
+text-align:right;
+vertical-align:bottom;
+position:absolute;
+margin-right:5px;
+margin-bottom:5px;
+}
+
+
+#content {
+padding: 5px;
+margin-left: 160px;
+margin-right: 0px; 
+background-color: #ffffff;
+}
+div#content { 
+min-height:600px;
+height:expression(this.scrollHeight > 600 ? "auto":"600px"); 
+}
+
+#left {
+float: left;
+width: 160px;
+margin: 0px;
+padding: 0px;
+}
+
+#footer {
+clear: both;
+margin: 0px;
+padding: 0px;
+text-align: right; }
+
+
+
+
+/* ActiveCalendar styles*/
+.year {
+	border-style: outset;
+	border-width: 1px;
+	background-color: #FAEBD7;
+	text-align: center;
+}
+.month {
+	border-style: none;
+	background-color: #C5CDD1;
+	text-align: center;
+}
+.yearname {
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+}
+.monthname {
+	text-align: center;
+	font-size: 13px;
+	font-weight: bold;
+	background-color: #C5CDD1;
+	color: #667171;
+	border-style: solid;
+	border-width:0px
+}
+.dayname {
+	text-align: center;
+	font-size: 12px;
+	font-weight: bold;
+	/*color: #667171;*/
+	background-color:#ffffff;
+	border-style: none;
+	border-width:1px
+}
+.weeknumtitle {
+	text-align: center;
+	font-size: 10px;
+	font-weight: bold;
+	color: #667171;
+	border-style: none;
+	border-width:1px
+}
+.weeknum {
+	text-align: center;
+	font-size: 10px;
+	height:90px;
+	width:90px;
+	color: #CD5C5C;
+	background-color: #FAEBD7;
+}
+
+.week {
+	border-style: none;
+	background-color: #C5CDD1;
+	text-align: center;
+}
+.monthweek {
+	text-align: center;
+	font-size: 10px;
+	font-weight: bold;
+	color: #667171;
+	border-style: solid;
+	border-width:1px
+}
+
+.yearnavigation {
+	font-size: 12px;
+}
+.datepicker {
+	background-color: #FAEBD7;
+}
+.datepickerform {
+	margin: 0px;
+}
+.monthnavigation {
+	font-family: Tahoma, Arial, sans-serif;
+}
+.monthpicker {
+	font-size: 11px;
+	background-color: #C5CDD1;
+}
+.yearpicker {
+	font-size: 11px;
+	background-color: #C5CDD1;
+}
+.pickerbutton {
+	border-style: solid;
+	border-width: 1px;
+	background-color: #C5CDD1;
+}
+.nomonthday {
+	text-align: center;
+	vertical-align: top;
+	font-size: 10px;
+	height:90px;
+	width:90px;
+	color: #aaaaaa;
+}
+.monthday {
+	text-align: center;
+	vertical-align: top;
+	font-size: 11px;
+	font-weight: bold;
+	background-color: #FFF;
+	/*color: #000000;*/
+	height:90px;
+	width:90px;
+}
+
+.monthday:hover {
+	text-align: center;
+	vertical-align: top;
+	font-size: 11px;
+	font-weight: bold;
+	/*border-width: 1px;
+	border-style: solid;*/
+	background-color: #EEE9E9;
+	/*color: #000000;*/
+	height:90px;
+	width:90px;
+}
+
+.saturday:hover {
+	text-align: center;
+	vertical-align: top;
+	font-size: 11px;
+	font-weight: bold;
+	/*border-width: 1px;
+	border-style: solid;*/
+	background-color: #EEE9E9;
+	/*color: #000000;*/
+	height:90px;
+	width:90px;
+}
+
+.sunday:hover {
+	text-align: center;
+	vertical-align: top;
+	font-size: 11px;
+	font-weight: bold;
+	/*border-width: 1px;
+	border-style: solid;*/
+	background-color: #EEE9E9;
+	/*color: #000000;*/
+	height:90px;
+	width:90px;
+}
+
+.today {
+	text-align: center;
+	vertical-align: top;
+	font-size: 11px;
+	font-weight: bold;
+	border-width: 1px;
+	border-style: solid;
+	background-color: #EEE9E9;
+	color: #000000;
+	height:90px;
+	width:90px;
+}
+.selectedday {
+	text-align: center;
+	vertical-align: top;
+	font-size: 11px;
+	font-weight: bold;
+	border-width: 1px;
+	border-style: none;
+	background-color: #CDC9C9;
+	height:90px;
+	width:90px;
+}
+.sunday {
+	text-align: center;
+	vertical-align: top;
+	font-size: 11px;
+	font-weight: bold;
+	background-color: #FFF;
+	/*color: #000000;*/
+	height:90px;
+	width:90px;
+}
+
+.saturday {
+	text-align: center;
+	vertical-align: top;
+	font-size: 11px;
+	font-weight: bold;
+	background-color: #FFF;
+	/*color: #000000;*/
+	height:90px;
+	width:90px;
+}
+
+.event {
+	text-align: center;
+	vertical-align: top;
+	font-size: 11px;
+	font-weight: bold;
+	color: #000000;
+	background-color: #ffffff;
+	height:90px;
+	width:90px;
+	white-space: nowrap;
+}
+.event a {
+	color: #000000;
+}
+.selectedevent {
+	text-align: center;
+	vertical-align: top;
+	font-size: 11px;
+	font-weight: bold;
+	border-width: 1px;
+	border-style: solid;
+	color: #000000;
+	background-color: #CDC9C9;
+	height:90px;
+	width:90px;
+	white-space: nowrap;
+}
+.selectedevent a {
+	background-color: #ffffff;
+	color: #000000;
+}
+.todayevent {
+	text-align: center;
+	vertical-align: top;
+	font-size: 11px;
+	font-weight: bold;
+	border-width: 1px;
+	border-style: solid;
+	color: #000000;
+	background-color: #EEE9E9;
+	height:90px;
+	width:90px;
+	white-space: nowrap;
+}
+.todayevent a {
+	background-color: #ffffff;
+	color: #000000;
+}
+.eventcontent {
+	font-size: 10px;
+	width: 100%;
+	/*white-space: nowrap;*/
+	border-style:none;
+			   margin-left: auto;
+    margin-right: auto;
+}
+
+.wkSessionDist {
+	white-space: nowrap;
+}
+
+.weekview {
+	position: relative;
+	
+	width: 100%;
+}
+
+.prev {
+text-align:left;
+}
+
+.next {
+text-align:right;
+}
+
+.error {
+color:#FF0000;
+font-weight:bold;
+}
+
+
+
+/* 
+	Summary Table
+	Adapted from Stuart Colville http://www.muffinresearch.co.uk
+*/
+
+table.summary, table.summary td
+{
+	border               : 1px solid #CCC;
+	border-collapse      : collapse;
+   /* font                 : small/1.5 "Tahoma", "Bitstream Vera Sans", Verdana, Helvetica, sans-serif;*/
+}
+table.summary
+{
+	border                :none;
+	border                :1px solid #CCC;
+}
+table.summary thead th,
+table.summary tbody th
+{
+	background            : #FFF url("../../images/th_bck.gif") repeat-x;
+  /*color                 : #666;  */
+	padding               : 5px 10px;
+  border-left           : 1px solid #CCC;
+}
+table.summary tbody th
+{
+  background            : #fafafb;
+  border-top            : 1px solid #CCC;
+  text-align            : left;
+  font-weight           : normal;
+}
+table.summary tbody tr td
+{
+	padding               : 5px 10px;
+  /*color                 : #666;*/
+}
+
+table.summary tfoot td,
+table.summary tfoot th
+{
+  border-left           : none;
+  border-top            : 1px solid #CCC;
+  padding               : 4px;
+  background            : #FFF url("../../images/foot_bck.gif") repeat;
+  /*color                 : #666;*/
+}
+table.summary caption
+{
+	text-align            : left;
+	font-size             : 120%;
+	padding               : 10px 0;
+	/*color                 : #666;*/
+}
+table.summary table a:link
+{
+	/*color                 : #666;*/
+}
+table.summary table a:visited
+{
+	/*color                 : #666;*/
+}
+
+table.summary table a:active
+{
+	/*color                 : #003366;*/
+}
+
+
+
+/* 
+	Clean and crisp table styles
+	written by Mats Lindblad http://blogs.su.se/matlin/
+*/
+
+table.friendsList {
+	border-spacing:1px;
+	background-color:#E7E7E7;
+	/*border:solid 1px;*/
+}
+
+table.friendsList td, th {
+	padding: 4px;
+}
+
+table.friendsList thead th {
+	text-align: center;
+	background: #F5F5F5;
+	color: #666;
+	border: 1px solid #FFF;
+	text-transform:uppercase;
+}
+
+table.friendsList tbody th {
+	font-weight: bold;
+}
+
+table.friendsList tbody tr		{
+	background-color:#FFF; 
+	text-align:left;
+	}
+table.friendsList tbody tr.odd 	{
+	background: #f9f9f9;
+	border-top:1px solid #FFF;
+}
+
+
+table.friendsList tbody tr td { 
+	height:50px;
+	background: #FFF;
+	border: 1px solid #FFF;
+	}
+
+table.friendsList tbody tr.odd td{ 
+	background: #f9f9f9;
+	border-top:1px solid #FFF;
+	}
+
+table.friendsList tfoot th, tfoot td {
+	background-color:#E7E7E7; padding:10px;
+	text-align:center; 
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:22px; font-weight:bold; font-style:italic;
+	border-bottom:3px solid #CCC;
+	border-top:1px solid #DFDFDF;
+}
+
+
+

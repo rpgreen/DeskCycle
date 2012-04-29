@@ -1,0 +1,168 @@
+/**
+ * @(#) OptionsPanel.java 
+ *      Ryan Green 2006
+ */
+
+package org.rg.dcmon.view;
+import javax.comm.CommPortIdentifier;
+import javax.swing.*;
+import java.awt.*;
+import java.awt.event.*;
+import java.util.Enumeration;
+import org.rg.dcmon.session.*;
+import org.rg.dcmon.monitor.*;
+
+public class OptionsPanel extends JPanel implements ActionListener {
+
+	public static int WIDTH = 425;
+	public static int HEIGHT = 400;
+	private View view;
+	private JButton okButton;
+	private JButton cancelButton;
+	private JFrame parent;
+	private Component[] comps;
+	
+	public OptionsPanel(JFrame frame){
+		init();
+		parent = frame;
+	}
+	
+	private void init()
+	{
+		this.setVisible(true);
+		//this.setTitle("Settings");
+		GridLayout layout = new GridLayout(0,2);
+		layout.setHgap(5);
+		layout.setVgap(5);
+		this.setLayout(layout); 
+		
+		okButton = new JButton("OK");
+		okButton.addActionListener(this);
+		cancelButton = new JButton("Cancel");
+		cancelButton.addActionListener(this);
+		
+		SettingsManager settings = SettingsManager.getInstance();
+		comps = new Component[26];
+		
+		comps[0] = new JLabel("Username: ");
+		comps[1] = new JTextField(10);
+		((JTextField) comps[1]).setText(settings.username);
+		
+		comps[2] = new JLabel("Password:" );
+		comps[3] = new JTextField(10);
+		//((JTextField) comps[3]).set	//TODO: hide pw text
+		((JTextField) comps[3]).setText(settings.pass);
+	
+		comps[4] = new JLabel("Update Interval (ms): ");
+		comps[5] = new JTextField(10);
+		((JTextField) comps[5]).setText(Integer.toString(settings.updateInterval));
+		
+		comps[6] = new JLabel("Upload Session: ");
+		JCheckBox checkbox = new JCheckBox();
+		checkbox.setSelected(settings.uploadSession);
+		comps[7] = checkbox;
+		
+		comps[8] = new JLabel("Session Start Ticks: ");
+		comps[9] = new JTextField(10);
+		((JTextField) comps[9]).setText(Integer.toString(settings.sessionStartTicks));
+		
+		comps[10] = new JLabel("Session Timeout (ms): ");
+		comps[11] = new JTextField(10);
+		((JTextField) comps[11]).setText(Long.toString(settings.sessionTimeoutMillis));
+		
+		comps[12] = new JLabel("Communication Timeout (ms): ");
+		comps[13] = new JTextField(10);
+		((JTextField) comps[13]).setText(Long.toString(settings.commTimeoutMillis));
+		
+		comps[14] = new JLabel("Server Host: ");
+		comps[15] = new JTextField(10);
+		((JTextField) comps[15]).setText(settings.serverHostname);
+		
+		comps[16] = new JLabel("Device Protocol: ");
+		{String[] items = new String[1];
+		items[0] = "Serial";
+		JComboBox c = new JComboBox(items);
+		comps[17] = c;}
+		
+		comps[18] = new JLabel("Device Comm Port: ");		
+		Enumeration ports = CommPortIdentifier.getPortIdentifiers();
+		{JComboBox c = new JComboBox();
+		while (ports.hasMoreElements())
+		{
+			CommPortIdentifier portId = (CommPortIdentifier) ports.nextElement();
+			if (portId.getPortType() == CommPortIdentifier.PORT_SERIAL)
+			{
+				String name = portId.getName();
+				c.addItem(name);
+			}
+		}
+		comps[19] = c;}
+		
+		comps[20] = new JLabel("Device Baud Rate: ");
+		comps[21] = new JTextField(10);
+		((JTextField) comps[21]).setText(Integer.toString(settings.commBaudRate));
+		
+		comps[22] = new JLabel("Velocity Unit: ");
+		{String[] items = {"M_S", "CM_S", "IN_S", "FT_S", "KM_H", "MI_H"};
+		JComboBox c = new JComboBox(items);
+		VelocityUnit v = settings.velocityUnit;
+		c.setSelectedIndex(v.ordinal());
+		comps[23] = c;}
+		
+		comps[24] = new JLabel("Distance Unit: ");
+		{String[] items = {"M", "CM", "FT", "KM", "IN", "MI"};
+		JComboBox c = new JComboBox(items);
+		DistanceUnit d = settings.distanceUnit;
+		c.setSelectedIndex(d.ordinal());
+		comps[25] = c;}
+		
+		for (int i=0; i<comps.length; i++)
+		{
+			this.add(comps[i]);
+		}
+		
+		this.add(okButton);
+		this.add(cancelButton);
+		
+	}
+	
+	private void save()
+	{	//TODO:
+		SettingsManager settings = SettingsManager.getInstance();
+		
+		settings.username = ((JTextField) comps[1]).getText();
+		settings.pass = ((JTextField) comps[3]).getText();
+		settings.updateInterval = Integer.parseInt(((JTextField) comps[5]).getText());
+		settings.uploadSession = ((JCheckBox)comps[7]).isSelected();
+		settings.sessionStartTicks = Integer.parseInt(((JTextField) comps[9]).getText());
+		settings.sessionTimeoutMillis = Long.parseLong(((JTextField) comps[11]).getText());
+		settings.commTimeoutMillis = Long.parseLong(((JTextField) comps[13]).getText());;
+		settings.serverHostname = ((JTextField) comps[15]).getText();
+		settings.commPort = ((JComboBox)comps[19]).getSelectedItem().toString();
+		//settings.deviceCommType = ;
+		settings.commBaudRate = Integer.parseInt(((JTextField) comps[21]).getText());
+		
+		String vStr = ((JComboBox)comps[23]).getSelectedItem().toString();
+		settings.velocityUnit = VelocityUnit.valueOf(vStr);
+		
+		String dStr = ((JComboBox)comps[25]).getSelectedItem().toString();
+		settings.distanceUnit = DistanceUnit.valueOf(dStr);
+				
+		settings.save();
+		System.out.println("OptionsPanel: Settings saved. ");
+		parent.dispose();
+	}
+	
+	public void actionPerformed(ActionEvent arg0) 
+	{
+		if (arg0.getSource() == okButton)
+		{
+			save();
+		}
+		if (arg0.getSource() == cancelButton)
+		{
+			parent.dispose();
+		}
+		
+	}
+}

@@ -1,0 +1,16 @@
+/**
+ * @(#) GraphPanel.java 
+ *      Ryan Green 2006
+ */
+
+package org.rg.dcmon.view;
+
+public class GraphPanel{
+	private View view;
+	
+	public void refresh(){
+		
+	}
+	
+	
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<session version="1.0">
+<refactoring comment="Rename type 'org.rg.dcmon.dcweb.XMLRPCConnection' to 'XmlRpcConnection'&#13;&#10;- Original element: 'org.rg.dcmon.dcweb.XMLRPCConnection'&#13;&#10;- Renamed element: 'org.rg.dcmon.dcweb.XmlRpcConnection'&#13;&#10;- Update references to refactored element&#13;&#10;- Update textual occurrences in comments and strings" description="Rename type 'XMLRPCConnection'" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;org.rg.dcmon.dcweb{XMLRPCConnection.java[XMLRPCConnection" matchStrategy="1" name="XmlRpcConnection" qualified="false" references="true" similarDeclarations="false" stamp="1174273374861" textual="false" version="1.0"/>
+</session>

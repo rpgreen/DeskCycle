@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo enclosingTypes="" modifiers="513" name="IDevice" package="org.rg.dcmon.device" path="/DCMon/src/org/rg/dcmon/device/IDevice.java"/>
+<typeInfo enclosingTypes="" modifiers="1025" name="GraphPanel" package="org.rg.dcmon.view" path="/DCMon/src/org/rg/dcmon/view/GraphPanel.java"/>
+</typeInfoHistroy>

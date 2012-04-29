@@ -1,0 +1,84 @@
+!SESSION 2007-01-24 12:39:47.302 -----------------------------------------------
+eclipse.buildId=M20060118-1600
+java.version=1.6.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_CA
+Command-line arguments:  -data E:\School\Senior Project\DCMon -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 4 4 2007-01-24 12:39:52.177
+!MESSAGE Could not create view: 'com.ibm.xtools.patterns.ui.views.explorer.PatternExplorer'.
+
+!ENTRY org.eclipse.core.resources 1 0 2007-01-24 12:41:45.958
+!MESSAGE Conversion of local history completed successfully.
+!SESSION 2007-01-24 14:41:08.302 -----------------------------------------------
+eclipse.buildId=M20060118-1600
+java.version=1.6.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2007-01-24 14:41:11.146
+!MESSAGE A workspace crash was detected. The previous session did not exit normally.
+!SESSION 2007-01-27 15:23:43.765 -----------------------------------------------
+eclipse.buildId=M20060118-1600
+java.version=1.6.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2007-01-27 15:23:55.78
+!MESSAGE A workspace crash was detected. The previous session did not exit normally.
+!SESSION 2007-02-10 18:48:05.765 -----------------------------------------------
+eclipse.buildId=M20060118-1600
+java.version=1.6.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2007-02-10 18:48:10.843
+!MESSAGE A workspace crash was detected. The previous session did not exit normally.
+!SESSION 2007-02-16 16:02:47.812 -----------------------------------------------
+eclipse.buildId=M20060118-1600
+java.version=1.6.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2007-02-16 16:02:52.531
+!MESSAGE A workspace crash was detected. The previous session did not exit normally.
+!SESSION 2007-02-16 17:50:42.593 -----------------------------------------------
+eclipse.buildId=M20060118-1600
+java.version=1.6.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2007-02-16 17:50:48.187
+!MESSAGE A workspace crash was detected. The previous session did not exit normally.
+!SESSION 2007-03-10 20:08:19.458 -----------------------------------------------
+eclipse.buildId=M20060921-0945
+java.version=1.6.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2007-03-10 20:08:27.146
+!MESSAGE A workspace crash was detected. The previous session did not exit normally.
+!SESSION 2007-03-10 21:40:17.490 -----------------------------------------------
+eclipse.buildId=M20060921-0945
+java.version=1.6.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2007-03-10 21:41:02.349
+!MESSAGE A workspace crash was detected. The previous session did not exit normally.
+!SESSION 2007-03-16 15:55:01.235 -----------------------------------------------
+eclipse.buildId=M20060921-0945
+java.version=1.6.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2007-03-16 15:55:03.710
+!MESSAGE A workspace crash was detected. The previous session did not exit normally.

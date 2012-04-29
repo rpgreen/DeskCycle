@@ -1,0 +1,26 @@
+/**
+ * @(#) GraphPanel.java 
+ *      Ryan Green 2006
+ */
+
+package org.rg.dcmon.view;
+
+import javax.swing.*;
+import org.rg.dcmon.monitor.*;
+import java.awt.*;
+import java.awt.event.*;
+
+public class GraphPanel extends JPanel{
+	
+	public GraphPanel(Session session){
+		
+	}
+	
+	private View view;
+	
+	public void refresh(){
+		
+	}
+	
+	
+}
